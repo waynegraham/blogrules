@@ -14,7 +14,7 @@ add_action('wp_dashboard_setup', 'add_blog_rules' );
 
 // Create the function use in the action hook
 function add_blog_rules() {
-  wp_add_dashboard_widget('blog_rules_widget', 'Blog Rules', 'print_the_rules_function');
+  wp_add_dashboard_widget('blog_rules_widget', 'Red Tape', 'print_the_rules_function');
 
   // Globalize the metaboxes array, this holds all the widgets for wp-admin
   global $wp_meta_boxes;
