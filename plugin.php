@@ -31,7 +31,7 @@ function add_blog_rules()
   unset($normal_dashboard['blog_rules_widget']);
 
   // Merge the two arrays together so our widget is at the beginning
-  $sorted_dashboard = array_merge($example_widget_backup, $normal_dashboard);
+  $sorted_dashboard = array_merge($blog_widget_backup, $normal_dashboard);
 
   // Save the sorted array back into the original metaboxes
   $wp_meta_boxes['dashboard']['normal']['core'] = $sorted_dashboard;
