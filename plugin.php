@@ -52,8 +52,8 @@ function print_the_rules_function()
     on this blog subject to the standards of responsible civil discourse and sound scholarship.
     In other words, the Scholars' Lab blog has been established to further defined objectives
     of the University of Virginia Library and does not constitute a forum for general expression.</p>
-    <p><strong>Legal Responsibilities:</strong> you agree that it is your individua
-    responsibility to adhere to all applicable legal requirements including copyrigh
+    <p><strong>Legal Responsibilities:</strong> you agree that it is your individual
+    responsibility to adhere to all applicable legal requirements including copyright
     law, and that you have not posted content that is defamatory of or harmful to the
     legal rights of others.   You represent and warrant that you either own or have
     received permission to post the all content submitted, or have included short excerpts
